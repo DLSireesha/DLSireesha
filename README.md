@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sireesha</h1>
 <h3 align="center">A passionate Data Science student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dlsireesha&label=Profile%20views&color=0e75b6&style=flat" alt="dlsireesha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sireesha18&label=Profile%20views&color=0e75b6&style=flat" alt="sireesha18" /> </p>)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
