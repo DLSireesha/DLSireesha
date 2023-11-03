@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sireesha</h1>
-<h3 align="center">A passionate Computer Science Student</h3>
+<h3 align="center">A Passionate Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlsireesha&label=Profile%20views&color=0e75b6&style=flat" alt="dlsireesha" /> </p>
 
