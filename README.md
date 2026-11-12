@@ -15,4 +15,4 @@ I'm focused on growing as a Site Reliability / DevOps / Platform Engineer around
 🤖 Automate repetitive operational work with Python and Bash
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlsireesha&show_icons=true&locale=en&layout=compact" alt="dlsireesha" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlsireesha&show_icons=true&locale=en" alt="dlsireesha" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dlsireesha&" alt="dlsireesha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dlsireesha&" alt="dlsireesha" /></p>
