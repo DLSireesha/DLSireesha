@@ -13,31 +13,6 @@ I'm focused on growing as a Site Reliability / DevOps / Platform Engineer around
 📈 Build monitoring and alerting with Dynatrace and Datadog
 🔍 Run incident resolution and root cause analysis (RCA), managed through ServiceNow
 🤖 Automate repetitive operational work with Python and Bash
-<h3 align="left">📌 Pinned Projects:</h3>
-🔭 OpenTelemetry Demo on AKS
 
-Deployed and instrumented the OpenTelemetry Demo (Frontend, Checkout, Payment, Cart, Product Catalog, Shipping, Recommendation, Kafka, Valkey) on Azure Kubernetes Service.
 
-Infrastructure provisioned with Terraform; images built with Docker; deployment automated with GitHub Actions
-Traces, metrics and logs routed through the OpenTelemetry Collector to Dynatrace and Datadog
-Explored end-to-end request tracing, service dependency mapping, failure simulation with Flagd, and Kubernetes Services, Ingress and Load Balancers
-
-Azure AKS Terraform Docker GitHub Actions OpenTelemetry Dynatrace Datadog
-
-📨 Solace Resource Provisioning with Terraform
-
-Infrastructure-as-Code setup for creating Solace queues and topics with Terraform, so messaging resources are created in a repeatable, version-controlled way.
-
-Terraform Solace PubSub+ IaC
-
-<h3 align="left">💼 Work Highlights (TCS):</h3>
-🔎 Built a Dynatrace alert for MQTT ACL topic mismatches across 10+ client applications, cutting diagnosis time from ~1.5 hours to ~2 minutes
-📝 Automated daily queue health reporting for 250 queues with Python + cron, saving about 1 hour per day of manual work (3 reports × ~20 min)
-🧱 Used Terraform + GitHub Actions to automate Solace queue and topic creation
-<h3 align="left">🎓 Certifications:</h3>
-Microsoft Certified: Azure Fundamentals (AZ-900)
-Solace Certified Practitioner
-Solace Event-Driven Architecture Practitioner
-Solace Certified Developer
-Claude Foundations
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlsireesha&show_icons=true&locale=en&layout=compact" alt="dlsireesha" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlsireesha&show_icons=true&locale=en" alt="dlsireesha" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dlsireesha&" alt="dlsireesha" /></p>
