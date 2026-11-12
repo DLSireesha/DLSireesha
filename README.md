@@ -1,18 +1,43 @@
-<h1 align="center">Hi 👋, I'm Sireesha</h1>
-<h3 align="center">A Passionate Computer Science Student</h3>
+<h1 align="center">Hi 👋, I'm Sireesha</h1> <h3 align="center">Site Reliability / DevOps Engineer | Azure • AKS • Terraform • Observability</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlsireesha&label=Profile%20views&color=0e75b6&style=flat" alt="dlsireesha" /> </p> <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/sireesha18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sireesha18" height="30" width="40" /></a> </p>
+<h3 align="left">About Me:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dlsireesha&label=Profile%20views&color=0e75b6&style=flat" alt="dlsireesha" /> </p>
+I'm a System Engineer at TCS with 2.5 years of hands-on experience running Solace PubSub+ event brokers on Azure Kubernetes Service (AKS). I work on event-driven architecture, incident resolution and RCA, observability with Dynatrace and Datadog, and automation with Terraform, GitHub Actions, Python and Bash.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sireesha18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sireesha18" height="30" width="40" /></a>
-</p>
+I'm focused on growing as a Site Reliability / DevOps / Platform Engineer around Azure, AKS, Infrastructure as Code and Observability. 📍 Bengaluru, India.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Experience-2.5%20Years-blue?style=flat" /> <img src="https://img.shields.io/badge/Open%20to-SRE%20%2F%20DevOps%20%2F%20Platform%20Roles-orange?style=flat" /> </p>
+<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a> <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/> </a> <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> </a> </p> <p align="left"> <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" /> <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" /> <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" /> <img src="https://img.shields.io/badge/Solace%20PubSub+-00C895?style=for-the-badge" /> <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" /> </p>
+<h3 align="left">What I Do:</h3>
+⚙️ Operate and support Solace PubSub+ on AKS, covering 250 queues across event-driven applications
+🏗️ Provision Azure clusters and Solace queues/topics with Terraform, delivered through GitHub Actions CI/CD pipelines
+📈 Build monitoring and alerting with Dynatrace and Datadog
+🔍 Run incident resolution and root cause analysis (RCA), managed through ServiceNow
+🤖 Automate repetitive operational work with Python and Bash
+<h3 align="left">📌 Pinned Projects:</h3>
+🔭 OpenTelemetry Demo on AKS
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlsireesha&show_icons=true&locale=en&layout=compact" alt="dlsireesha" /></p>
+Deployed and instrumented the OpenTelemetry Demo (Frontend, Checkout, Payment, Cart, Product Catalog, Shipping, Recommendation, Kafka, Valkey) on Azure Kubernetes Service.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlsireesha&show_icons=true&locale=en" alt="dlsireesha" /></p>
+Infrastructure provisioned with Terraform; images built with Docker; deployment automated with GitHub Actions
+Traces, metrics and logs routed through the OpenTelemetry Collector to Dynatrace and Datadog
+Explored end-to-end request tracing, service dependency mapping, failure simulation with Flagd, and Kubernetes Services, Ingress and Load Balancers
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dlsireesha&" alt="dlsireesha" /></p>
+Azure AKS Terraform Docker GitHub Actions OpenTelemetry Dynatrace Datadog
+
+📨 Solace Resource Provisioning with Terraform
+
+Infrastructure-as-Code setup for creating Solace queues and topics with Terraform, so messaging resources are created in a repeatable, version-controlled way.
+
+Terraform Solace PubSub+ IaC
+
+<h3 align="left">💼 Work Highlights (TCS):</h3>
+🔎 Built a Dynatrace alert for MQTT ACL topic mismatches across 10+ client applications, cutting diagnosis time from ~1.5 hours to ~2 minutes
+📝 Automated daily queue health reporting for 250 queues with Python + cron, saving about 1 hour per day of manual work (3 reports × ~20 min)
+🧱 Used Terraform + GitHub Actions to automate Solace queue and topic creation
+<h3 align="left">🎓 Certifications:</h3>
+Microsoft Certified: Azure Fundamentals (AZ-900)
+Solace Certified Practitioner
+Solace Event-Driven Architecture Practitioner
+Solace Certified Developer
+Claude Foundations
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlsireesha&show_icons=true&locale=en&layout=compact" alt="dlsireesha" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlsireesha&show_icons=true&locale=en" alt="dlsireesha" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dlsireesha&" alt="dlsireesha" /></p>
